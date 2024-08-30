@@ -1,3 +1,3 @@
-# YouTube_Video_Downloder
+# YouTube_Video_Downloader
 
-Python Script to downlode YouTube Video.
+Python Script to downloade YouTube Video.
